@@ -122,12 +122,10 @@ python-dotenv>=1.0.0
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](<img width="1858" height="865" alt="image" src="https://github.com/user-attachments/assets/140478f8-0ee1-4c6c-be3f-e2cd12c17af1" />
-)
+![Main Interface](main.png)
 
 ### Analysis Example
-![Analysis](<img width="1891" height="828" alt="image" src="https://github.com/user-attachments/assets/01c787ac-01cc-484e-8d58-3e5ad29ab288" />
-)
+![Analysis](use.png)
 
 ## 🔑 API Keys
 
