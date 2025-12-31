@@ -125,7 +125,7 @@ python-dotenv>=1.0.0
 ![Main Interface](main.png)
 
 ### Analysis Example
-![Analysis](use.png)
+![Analysis](use1.png)
 
 ## 🔑 API Keys
 
