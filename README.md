@@ -192,8 +192,8 @@ If you find this project useful, please consider giving it a star!
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@Ashwinder Singh](https://github.com/Ashwinder0186/)
 
-Project Link: [https://github.com/yourusername/stock-analysis-ai](https://github.com/yourusername/stock-analysis-ai)
+Project Link: [https://github.com/Ashwinder0186/AI-Stock-Analysis-Prediction](https://github.com/Ashwinder0186/AI-Stock-Analysis-Prediction)
 
 ---
